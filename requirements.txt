@@ -1,0 +1,18 @@
+# Deep Learning & Model Utilities
+torch==2.2.0
+torchvision==0.17.0
+scikit-learn==1.4.2
+
+# Data Handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Bayesian Inference
+pymc3==3.11.5
+
+# Visualization (optional, for metrics and plots)
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Other Utilities
+tqdm==4.66.4
