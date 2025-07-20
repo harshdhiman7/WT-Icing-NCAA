@@ -18,7 +18,7 @@ This research project introduces a novel framework that leverages a **multi-head
 - [Results](#results)
 - [How to Use](#how-to-use)
 - [Future Work](#future-work)
-- [License](#license)
+
 
 ## Project Description
 
@@ -81,6 +81,3 @@ Three deep learning architectures are evaluated:
 - Integrate real-time deployment capabilities with cloud-based SCADA systems.
 - Explore other advanced architectures and anomaly detection techniques.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for details.
